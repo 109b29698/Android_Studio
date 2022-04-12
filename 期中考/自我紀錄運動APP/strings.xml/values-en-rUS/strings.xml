@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Self-motion recording APP</string>
+    <string name="cdata">Select Date</string>
+    <string name="tdata">Sport Type</string>
+    <string name="ext">Excercise Time</string>
+    <string name="exd">Sports Date</string>
+    <string name="test1">Please fill in the type</string>
+    <string name="test2">Please fill in the time</string>
+    <string name="test3">Please fill in the date</string>
+    <string name="submit">Save</string>
+    <string name="re">Read</string>
+    <string name="delete">Delete</string>
+    <string name="deleteall">Delete All</string>
+    <string name="strings">中文</string>
+</resources>

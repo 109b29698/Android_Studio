@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">自我運動紀錄APP</string>
+    <string name="cdata">選擇日期</string>
+    <string name="tdata">運動類型</string>
+    <string name="ext">運動時間</string>
+    <string name="exd">運動日期</string>
+    <string name="test1">請填寫類型</string>
+    <string name="test2">請填寫時間</string>
+    <string name="test3">請選則日期</string>
+    <string name="submit">儲存</string>
+    <string name="re">讀取</string>
+    <string name="delete">刪除</string>
+    <string name="deleteall">刪除所有資料</string>
+    <string name="strings">English</string>
+</resources>
